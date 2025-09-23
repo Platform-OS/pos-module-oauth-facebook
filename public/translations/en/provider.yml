@@ -1,5 +1,5 @@
 en:
-  module:
+  provider:
     button:
       continue: Continue with Facebook
       disconnect: Disconnect from Facebook
